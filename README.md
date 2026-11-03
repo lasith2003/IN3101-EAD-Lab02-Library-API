@@ -79,7 +79,7 @@ After starting the application, access the API documentation at:
 
 ## Author
 
-**Name:** [Your Name]
+**Name:** S.K.L.Undulanga
 
 **Index Number:** 235114A
 
